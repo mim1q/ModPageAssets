@@ -56,6 +56,10 @@ The result should look like this:
 
 [![Join my Discord](https://raw.githubusercontent.com/mim1q/modPageAssets/main/badges/discord.png)](#)
 
+```markdown
+[![Join my Discord](https://raw.githubusercontent.com/mim1q/modPageAssets/main/badges/discord.png)](#)
+```
+
 ### Dead Cells Steam Page
 
 [![Buy Dead Cells](https://raw.githubusercontent.com/mim1q/modPageAssets/main/badges/dead-cells.png)](https://store.steampowered.com/app/588650/Dead_Cells/)
