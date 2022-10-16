@@ -22,40 +22,40 @@ The result should look like this:
 
 ### Empty
 
+![Empty badge](https://raw.githubusercontent.com/mim1q/modPageAssets/main/badges/base.png)
+
 ```markdown
 ![Empty badge](https://raw.githubusercontent.com/mim1q/modPageAssets/main/badges/base.png)
 ```
-
-![Empty badge](https://raw.githubusercontent.com/mim1q/modPageAssets/main/badges/base.png)
 
 ### Ko-Fi Donation
 
+[![Support me on Ko-Fi](https://raw.githubusercontent.com/mim1q/modPageAssets/main/badges/ko-fi.png)](https://ko-fi.com/mim1q)
+
 ```markdown
 [![Support me on Ko-Fi](https://raw.githubusercontent.com/mim1q/modPageAssets/main/badges/ko-fi.png)](https://ko-fi.com/mim1q)
 ```
-
-[![Support me on Ko-Fi](https://raw.githubusercontent.com/mim1q/modPageAssets/main/badges/ko-fi.png)](https://ko-fi.com/mim1q)
 
 ### Fabric API Dependency
 
-- Modrinth:
-
-  ```markdown
-  [![Requires Fabric API](https://raw.githubusercontent.com/mim1q/modPageAssets/main/badges/fabric-api.png)](https://modrinth.com/mod/fabric-api)
-  ```
-
-- Curseforge:
-
-  ```markdown
-  [![Requires Fabric API](https://raw.githubusercontent.com/mim1q/modPageAssets/main/badges/fabric-api.png)](https://modrinth.com/mod/fabric-api)
-  ```
-
 [![Requires Fabric API](https://raw.githubusercontent.com/mim1q/modPageAssets/main/badges/fabric-api.png)](https://modrinth.com/mod/fabric-api)
 
+- Modrinth
+
+  ```markdown
+  [![Requires Fabric API](https://raw.githubusercontent.com/mim1q/modPageAssets/main/badges/fabric-api.png)](https://modrinth.com/mod/fabric-api)
+  ```
+
+- Curseforge
+
+  ```markdown
+  [![Requires Fabric API](https://raw.githubusercontent.com/mim1q/modPageAssets/main/badges/fabric-api.png)](https://modrinth.com/mod/fabric-api)
+  ```
+
 ### Dead Cells Steam Page
+
+[![Buy Dead Cells](https://raw.githubusercontent.com/mim1q/modPageAssets/main/badges/dead-cells.png)](https://store.steampowered.com/app/588650/Dead_Cells/)
 
 ```markdown
 [![Buy Dead Cells](https://raw.githubusercontent.com/mim1q/modPageAssets/main/badges/dead-cells.png)](https://store.steampowered.com/app/588650/Dead_Cells/)
 ```
-
-[![Buy Dead Cells](https://raw.githubusercontent.com/mim1q/modPageAssets/main/badges/dead-cells.png)](https://store.steampowered.com/app/588650/Dead_Cells/)
