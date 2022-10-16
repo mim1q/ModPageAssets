@@ -52,6 +52,10 @@ The result should look like this:
   [![Requires Fabric API](https://raw.githubusercontent.com/mim1q/modPageAssets/main/badges/fabric-api.png)](https://modrinth.com/mod/fabric-api)
   ```
 
+### Discord Server Invite
+
+[![Join my Discord](https://raw.githubusercontent.com/mim1q/modPageAssets/main/badges/discord.png)](#)
+
 ### Dead Cells Steam Page
 
 [![Buy Dead Cells](https://raw.githubusercontent.com/mim1q/modPageAssets/main/badges/dead-cells.png)](https://store.steampowered.com/app/588650/Dead_Cells/)
