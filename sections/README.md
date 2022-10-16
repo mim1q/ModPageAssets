@@ -23,3 +23,11 @@
 ```markdown
 ![Gallery](https://raw.githubusercontent.com/mim1q/ModPageAssets/main/sections/gallery.png)
 ```
+
+## Q&A
+
+![Questions and Answers](https://raw.githubusercontent.com/mim1q/ModPageAssets/main/sections/qna.png)
+
+```markdown
+![Questions and Answers](https://raw.githubusercontent.com/mim1q/ModPageAssets/main/sections/qna.png)
+```
