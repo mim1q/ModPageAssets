@@ -31,3 +31,11 @@
 ```markdown
 ![Questions and Answers](https://raw.githubusercontent.com/mim1q/ModPageAssets/main/sections/qna.png)
 ```
+
+## Disclaimer
+
+![Disclaimer](https://raw.githubusercontent.com/mim1q/ModPageAssets/main/sections/disclaimer.png)
+
+```markdown
+![Disclaimer](https://raw.githubusercontent.com/mim1q/ModPageAssets/main/sections/disclaimer.png)
+```
