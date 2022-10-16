@@ -15,3 +15,11 @@
 ```markdown
 ![Overview](https://raw.githubusercontent.com/mim1q/ModPageAssets/main/sections/overview.png)
 ```
+
+## Gallery
+
+![Gallery](https://raw.githubusercontent.com/mim1q/ModPageAssets/main/sections/gallery.png)
+
+```markdown
+![Gallery](https://raw.githubusercontent.com/mim1q/ModPageAssets/main/sections/gallery.png)
+```
