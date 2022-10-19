@@ -30,7 +30,12 @@ The result should look like this:
 
 ## How to use
 
-Head to the [`badges`](https://github.com/mim1q/ModPageAssets/tree/main/badges), [`sections`](https://github.com/mim1q/ModPageAssets/tree/main/sections) or [`separators`](https://github.com/mim1q/ModPageAssets/tree/main/separators) directory. There, you will find a `README.md` file containing all of the usable graphics.
+Head to the
+[`badges`](https://github.com/mim1q/ModPageAssets/tree/main/badges),
+[`sections`](https://github.com/mim1q/ModPageAssets/tree/main/sections),
+[`separators`](https://github.com/mim1q/ModPageAssets/tree/main/separators),
+or [`other`](https://github.com/mim1q/ModPageAssets/tree/main/other) directory.
+There, you will find a `README.md` file containing all of the usable graphics.
 
 To use a badge, copy the markdown code provided below it and paste it to your project's description (make sure that your project makes use of markdown formatting).
 
