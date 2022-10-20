@@ -34,10 +34,10 @@
 
 ## Discord Server Invite
 
-[![Join my Discord](https://raw.githubusercontent.com/mim1q/ModPageAssets/main/badges/discord.png)](#)
+[![Join my Discord](https://raw.githubusercontent.com/mim1q/ModPageAssets/main/badges/discord.png)](https://discord.gg/6TjQbSjbuB)
 
 ```markdown
-[![Join my Discord](https://raw.githubusercontent.com/mim1q/ModPageAssets/main/badges/discord.png)](#)
+[![Join my Discord](https://raw.githubusercontent.com/mim1q/ModPageAssets/main/badges/discord.png)](https://discord.gg/6TjQbSjbuB)
 ```
 
 ## Dead Cells Steam Page
