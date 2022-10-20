@@ -39,3 +39,11 @@
 ```markdown
 ![Disclaimer](https://raw.githubusercontent.com/mim1q/ModPageAssets/main/sections/disclaimer.png)
 ```
+
+## Links
+
+![Links](https://raw.githubusercontent.com/mim1q/ModPageAssets/main/sections/links.png)
+
+```markdown
+![Links](https://raw.githubusercontent.com/mim1q/ModPageAssets/main/sections/links.png)
+```
